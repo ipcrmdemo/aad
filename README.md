@@ -23,7 +23,7 @@ This service comes with some rudimentary tests as a good starting
 point for writing your own.  Usesdf the following command to execute thesdf
 tests using Maven:f
 dfsaf
-```
+```sdf
 $ ./mvnw test
 ```dd
 dfasf
