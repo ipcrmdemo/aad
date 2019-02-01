@@ -20,7 +20,7 @@ asdfafd
 ### Run tests
 sdfasf
 This service comes with some rudimentary tests as a good starting
-point for writing your own.  Use the following command to execute the
+point for writing your own.  Usesdf the following command to execute the
 tests using Maven:f
 dfsaf
 ```
